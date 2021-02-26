@@ -14,8 +14,8 @@ This folder contains several **"starter notebooks"** with some basic code to hel
 
 ## FAQs
 
-Q1. I don't want to make any installations on my local system to run these starter notebooks. What to do?
+Q1. I don't want to make any installations on my local system to run these starter notebooks. What to do?  
 Ans. You can run these notebooks by uploading them onto a cloud service such as [Google Colaboratory](https://colab.research.google.com/)
 
-Q2. What to do if there is an error with the code in these notebooks?
+Q2. What to do if there is an error with the code in these notebooks?  
 Ans. If you come across a bug in the code, please raise an issue and we shall have a look at a fix.
